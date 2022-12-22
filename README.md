@@ -1,4 +1,4 @@
-# Sports_Competition_Management
+# Sport_Competitions_Management
 
 
 
