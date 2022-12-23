@@ -16,7 +16,7 @@ To choose the type of sport:
 The user can choose one of the competition types with the help of radio buttons. In any case of choosing the type of competition, the user must enter the names of the 8 participants using the "Add Participant" button. These names can be names of people or groups. The names will be registered in the participant boxes automatically in the order they are added.
 
 ---
-### `How it's work` 
+### `How It Works` 
 
 1. After clicking on the "Start Championship" button and provided that the user has filled in all the names, a second screen will appear (possibly in the same window) that allows for a round of quarter-final, semi-final and final games to be held. The game data can only be entered if the participants are known. For example, if the game of Quarter-final not finished It is not possible to enter the data of a semi-final game in which the names of the two participants are not yet known.
 
